@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background: #1d1dbf;
+    filter: contrast(64%);
+    padding: 20px;
+    color: #fff;
+}
+
+.navbar-title, .navbar-title > a {
+    font-weight: bold;
+    font-size: 24px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.navbar-routes, .navbar-routes > a {
+    color: #ffffff;
+    text-decoration: none;
+}
